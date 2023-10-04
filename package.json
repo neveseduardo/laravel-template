@@ -1,5 +1,19 @@
 {
+    "name": "laravel-app",
+    "version": "1.0.0",
+    "author": {
+        "name": "Eduardo Neves",
+        "email": "neveseduardoti@gmail.com",
+        "url": "https://github.com/neveseduardo"
+    },
+    "description": "Template laravel9 + Vite + Vue3 + typescript + inertia",
     "private": true,
+    "license": "UNLICENSED",
+    "sideEffects": false,
+    "keywords": [
+        "laravel",
+        "template"
+    ],
     "type": "module",
     "scripts": {
         "dev": "vite",
